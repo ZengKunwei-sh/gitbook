@@ -2,9 +2,9 @@
 
 ## 数据结构
 
-* [Tree](README.md)
-* [Page 3](shu-ju-jie-gou/page-3.md)
-* [Page 1](shu-ju-jie-gou/page-1.md)
+* [🌳 树结构](README.md)
+  * [二叉树](shu-ju-jie-gou/shu-jie-gou/er-cha-shu.md)
+  * [二叉搜索树](shu-ju-jie-gou/shu-jie-gou/er-cha-sou-suo-shu.md)
 
 ***
 
