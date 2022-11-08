@@ -13,4 +13,4 @@
 * [广度优先搜索](tu/guang-du-you-xian-sou-suo.md)
 * [深度优先搜索](tu/shen-du-you-xian-sou-suo.md)
 * [最短路径](tu/zui-duan-lu-jing.md)
-* [Page 1](tu/page-1.md)
+* [最小生成树](tu/zui-xiao-sheng-cheng-shu.md)
