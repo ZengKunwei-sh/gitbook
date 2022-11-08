@@ -44,3 +44,7 @@ class Kruskal:
                 minu_tree.append(edge)
         return minu_tree
 ```
+
+Prim
+
+[https://blog.csdn.net/JohnJim0/article/details/109108859](https://blog.csdn.net/JohnJim0/article/details/109108859)
